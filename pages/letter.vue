@@ -2,7 +2,7 @@
   <div class="h-screen w-screen flex justify-center items-center">
 
     <div class="flex flex-col rounded-lg bg-white shadow-lg md:max-w-xl md:flex-row">
-      <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-64 md:rounded-none md:rounded-l-lg" src="foto.jfif"
+      <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-64 md:rounded-none md:rounded-l-lg" src="/foto.jfif"
         alt="" />
       <div class="flex flex-col justify-start p-6">
         <h1 class="text-center text-2xl p-2"><strong>¡El amor de mi vida eres tu, por siempre, para siempre!</strong></h1>
@@ -21,7 +21,7 @@
 </template>
 
 <script setup lang="ts">
-const audio = ref(new Audio('fae.mp3'));
+const audio = ref(new Audio('/fae.mp3'));
 
 onMounted(() => {
   audio.value.volume = 0.01;
