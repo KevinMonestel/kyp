@@ -8,7 +8,7 @@
         <h1 class="text-center text-2xl p-2"><strong>¡El amor de mi vida eres tú, por siempre, para siempre!</strong></h1>
         <hr>
         <p class="text-center p-1">Mi amor, este pequeño sitio es una muestra de que siempre quiero llegar a tu corazón donde
-          seas que estés.
+          sea que estés.
           Quiero decirte lo mucho que te amo, lo mucho que me completas y lo grandioso que ha sido este primer mes junto a
           ti.
           Deseo que pasemos una vida juntos llena de muchas cosas lindas por vivir. Por ello, guardemos esto, como muestra de nuestro amor en este camino que empieza.
