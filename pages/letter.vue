@@ -5,7 +5,7 @@
       <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-64 md:rounded-none md:rounded-l-lg" src="/foto.jfif"
         alt="" />
       <div class="flex flex-col justify-start p-6">
-        <h1 class="text-center text-2xl p-2"><strong>¡El amor de mi vida eres tu, por siempre, para siempre!</strong></h1>
+        <h1 class="text-center text-2xl p-2"><strong>¡El amor de mi vida eres tú, por siempre, para siempre!</strong></h1>
         <hr>
         <p class="text-center p-1">Mi amor, este pequeño sitio es una muestra de que siempre quiero llegar a tu corazón donde
           seas que estés.
