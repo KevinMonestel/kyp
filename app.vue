@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <NuxtPage/>
+  </div>
+</template>
+
+<style>
+body{
+  background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);
+}
+</style>
